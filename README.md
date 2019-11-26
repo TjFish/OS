@@ -30,17 +30,26 @@
 
 - 开机动画
 
-![1574760725398](C:\Users\oy\AppData\Roaming\Typora\typora-user-images\1574760725398.png)
+
+![1](./img/1.png)
 
 
 
  - 显示图片
 
-   ![1574760774325](C:\Users\oy\AppData\Roaming\Typora\typora-user-images\1574760774325.png)
+   ![1574760774325](./img/2.png)
+
+   
+
+- 进程管理
+
+  ![3](./img/3.png)
+
+  
 
 - 文件系统（支持基本文件操作，ls，cd，rm，mkdir，cat，vi .....）
 
-  ![1574760789858](C:\Users\oy\AppData\Roaming\Typora\typora-user-images\1574760789858.png)
+  ![1574760789858](/img/4.png)
 
 - 游戏
 
@@ -48,10 +57,10 @@
 
     用户输入run2048可以进入2048游戏。系统⾃动打印游戏控制⽅法（wsad控制上下左右，enter键退出游戏）以及初始棋盘、当前分数（初始为0）；⽤户每次只能输⼊⼀个运动⽅向，系统⾃动刷新棋盘及分数，同时在棋盘内随机⽣成新数字格。
 
-    ![1574761091063](C:\Users\oy\AppData\Roaming\Typora\typora-user-images\1574761091063.png)
+    ![1574761091063](./img/5.png)
 
   - flappybird
 
     用户输入flappybird可以进入flappybird游戏。空格可以控制小鸟上升躲避障碍物。
 
-    ![1574761112253](C:\Users\oy\AppData\Roaming\Typora\typora-user-images\1574761112253.png)
+    ![6](./img/6.png)
